@@ -1,0 +1,221 @@
+{
+  "575": {
+    "data_nasc": "1895-11-26 00:00:00",
+    "nome": "Augusto Julio Cunha Azevedo",
+    "pai": "Zeferino Antonio Cunha Azevedo",
+    "mae": "Carlota Silva",
+    "detalhes": "",
+    "relativos": []
+  },
+  "582": {
+    "data_nasc": "1684-06-08 00:00:00",
+    "nome": "Paulo Pereira",
+    "pai": "Domingos Goncalves",
+    "mae": "Maria Francisca",
+    "detalhes": "",
+    "relativos": []
+  },
+  "569": {
+    "data_nasc": "1866-03-27 00:00:00",
+    "nome": "Aureliano Augusto Goncalves Sousa",
+    "pai": "Francisco Jose Goncalves Sousa",
+    "mae": "Miquelina Luisa Sousa",
+    "detalhes": "",
+    "relativos": []
+  },
+  "576": {
+    "data_nasc": "1896-11-24 00:00:00",
+    "nome": "Avelino Jose Marinho Cruz",
+    "pai": "Joao Manuel Marinho Cruz",
+    "mae": "Ana Joaquina",
+    "detalhes": "Jose Rodrigo Marinho Cruz,Tio Paterno. Proc.5048.",
+    "relativos": [
+      {
+        "nome": "Jose Rodrigo Marinho Cruz",
+        "tipo": "tio paterno",
+        "num": 5048
+      }
+    ]
+  },
+  "579": {
+    "data_nasc": "1902-08-12 00:00:00",
+    "nome": "Augusto Dantas Barbeitos",
+    "pai": "Antonio Jose Barbeitos",
+    "mae": "Maria Dores Fernandes",
+    "detalhes": "",
+    "relativos": []
+  },
+  "578": {
+    "data_nasc": "1900-11-12 00:00:00",
+    "nome": "Avelino Jose Sousa",
+    "pai": "Pedro Sousa",
+    "mae": "Maria Soares",
+    "detalhes": "",
+    "relativos": []
+  },
+  "572": {
+    "data_nasc": "1886-03-17 00:00:00",
+    "nome": "Avelino Lopes Pojeira",
+    "pai": "Manuel Lopes Pojeira",
+    "mae": "Ana Fernandes",
+    "detalhes": "Constantino Lopes Pojeira,Irmao. Proc.32940.",
+    "relativos": [
+      {
+        "nome": "Constantino Lopes Pojeira",
+        "tipo": "irmao",
+        "num": 32940
+      }
+    ]
+  },
+  "571": {
+    "data_nasc": "1881-01-21 00:00:00",
+    "nome": "Artur Mamede Silva Ferreira",
+    "pai": "",
+    "mae": "Rosa Maria Silva,Solteira",
+    "detalhes": "",
+    "relativos": []
+  },
+  "573": {
+    "data_nasc": "1889-01-12 00:00:00",
+    "nome": "Avelino Jose Cunha Meireles",
+    "pai": "Felisberto Cunha Meireles",
+    "mae": "Rosa Maria Mota",
+    "detalhes": "Porfirio Jose Cunha Meireles,Irmao.Proc.14541.  Francisco Jose Cunha Meireles,Irmao.",
+    "relativos": []
+  },
+  "581": {
+    "data_nasc": "1908-05-23 00:00:00",
+    "nome": "Avelino Teixeira Andrade",
+    "pai": "Albino Jose Andrade",
+    "mae": "Ana Teixeira",
+    "detalhes": "Jose Teixeira Andrade,Irmao. Proc.5413.",
+    "relativos": [
+      {
+        "nome": "Jose Teixeira Andrade",
+        "tipo": "irmao",
+        "num": 5413
+      }
+    ]
+  },
+  "567": {
+    "data_nasc": "1862-07-07 00:00:00",
+    "nome": "Joaquim Fausto Sousa Guimaraes",
+    "pai": "Jose Sousa Guimaraes",
+    "mae": "Flora Emiliana Sousa Guimaraes",
+    "detalhes": "Abilio Jose Sousa Guimaraes,Irmao. Proc.13046.",
+    "relativos": [
+      {
+        "nome": "Abilio Jose Sousa Guimaraes",
+        "tipo": "irmao",
+        "num": 13046
+      }
+    ]
+  },
+  "580": {
+    "data_nasc": "1906-05-29 00:00:00",
+    "nome": "Avelino Mota",
+    "pai": "Manuel Antonio Mota",
+    "mae": "Albina Goncalves Cerqueira",
+    "detalhes": "",
+    "relativos": []
+  },
+  "564": {
+    "data_nasc": "1852-09-03 00:00:00",
+    "nome": "Manuel Antonio Salgado Afonso",
+    "pai": "Manuel Afonso Salgado",
+    "mae": "Maria Rosa Dias Ferreira",
+    "detalhes": "",
+    "relativos": []
+  },
+  "570": {
+    "data_nasc": "1872-03-26 00:00:00",
+    "nome": "Augusto Costa Ferreira Machado",
+    "pai": "Bernardo Costa Fernandes Machado",
+    "mae": "Ermelinda Augusta Ferreira",
+    "detalhes": "",
+    "relativos": []
+  },
+  "574": {
+    "data_nasc": "1889-11-21 00:00:00",
+    "nome": "Augusto Moura Vasconcelos",
+    "pai": "Joaquim Augusto Moura Vasconcelos",
+    "mae": "Ana Joaquina Conceicao Fernandes Matos",
+    "detalhes": "Antonio Augusto Moura Vasconcelos,Irmao. Proc.13169.",
+    "relativos": [
+      {
+        "nome": "Antonio Augusto Moura Vasconcelos",
+        "tipo": "irmao",
+        "num": 13169
+      }
+    ]
+  },
+  "307": {
+    "data_nasc": "1733-02-19 00:00:00",
+    "nome": "Sebastiao Pita Castro",
+    "pai": "Inacio Pita Leite",
+    "mae": "Isabel Antonia Castro",
+    "detalhes": "Antonio Pita Castro,Irmao. Proc.6874.    Bernardo Luis Castro Lemos,Primo. Proc.6786.",
+    "relativos": [
+      {
+        "nome": "Antonio Pita Castro",
+        "tipo": "irmao",
+        "num": 6874
+      },
+      {
+        "nome": "Bernardo Luis Castro Lemos",
+        "tipo": "primo",
+        "num": 6786
+      }
+    ]
+  },
+  "357": {
+    "data_nasc": "1777-09-05 00:00:00",
+    "nome": "Jose Maria Monteiro",
+    "pai": "Daniel Antonio Monteiro",
+    "mae": "Brites Luisa Silva",
+    "detalhes": "Em Anexo: Justificacao feita em 1778/08/04.   Antonio Jose Monteiro,Irmao. Proc.7797.",
+    "relativos": [
+      {
+        "nome": "Antonio Jose Monteiro",
+        "tipo": "irmao",
+        "num": 7797
+      }
+    ]
+  },
+  "23": {
+    "data_nasc": "1689-11-22 00:00:00",
+    "nome": "Manuel Vilela",
+    "pai": "Belchior Vilela",
+    "mae": "Angela Antonia",
+    "detalhes": "Francisco Vilela,Irmao. Proc.5650.",
+    "relativos": [
+      {
+        "nome": "Francisco Vilela",
+        "tipo": "irmao",
+        "num": 5650
+      }
+    ]
+  },
+  "277": {
+    "data_nasc": "1730-10-31 00:00:00",
+    "nome": "Manuel Alvares",
+    "pai": "Pedro Alvares",
+    "mae": "Ana Rodrigues",
+    "detalhes": "Doc.danificado.  Adriano Rodrigues,Irmao. Proc.6263.",
+    "relativos": [
+      {
+        "nome": "Adriano Rodrigues",
+        "tipo": "irmao",
+        "num": 6263
+      }
+    ]
+  },
+  "577": {
+    "data_nasc": "1685-08-22 00:00:00",
+    "nome": "Francisco Araujo",
+    "pai": "Antonio Araujo",
+    "mae": "Isabel Afonso",
+    "detalhes": "",
+    "relativos": []
+  }
+}
