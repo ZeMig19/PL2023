@@ -1,0 +1,1 @@
+Get-Content teste.txt | python3 .\tpc6.py
